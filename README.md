@@ -14,20 +14,36 @@ Millions of people struggle to find blood donors during emergencies, leading to 
 
 ✨ Features
 🔹 User-Friendly Interface – Simple and easy-to-use design.
+
 🔹 Live Blood Availability Map – See nearby donors in real time.
+
 🔹 AI-Powered Chatbot – Get instant answers & support.
+
 🔹 Emergency Mode – Notify donors in urgent situations.
+
 🔹 Health Tracker – Keep track of your donation history.
+
 🔹 Community & Recognition – Earn badges and rewards for donating.
+
+
 
 🛠️ Technologies Used
 💻 Flutter – For a seamless cross-platform experience.
+
 📱 Android Studio – Android app development.
+
 ☁️ Firebase – User authentication & database management.
+
 🌍 Google Cloud – Secure and scalable cloud storage.
+
 🤖 Google AI Studio – AI-powered chatbot integration.
+
 🔗 Google IDX – Efficient coding environment.
+
 🎨 Figma – UI/UX design for a smooth experience.
+
+
+
 
 📊 Flow Diagram
 Here’s a simple overview of how the app works:
