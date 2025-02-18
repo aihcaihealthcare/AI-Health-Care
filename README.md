@@ -44,8 +44,10 @@ We welcome contributors! Follow these steps to get started:
 Blood donation is an act of kindness that can save millions of lives. Be a part of this mission and make a difference today!
 
 
-*Architectural Diagram Explanation for Blood Donation App*  
 
+
+
+*Architectural Diagram Explanation for Blood Donation App*  
 The architecture of the *Blood Donation App* is designed to ensure seamless interaction between users, secure data management, and real-time updates. The system follows a *multi-layered architecture*, including:  
 
 1️⃣ *User Interface (UI) Layer*  
