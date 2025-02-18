@@ -86,5 +86,9 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 6. *Blood Donation Completed* → Records updated in Firebase Firestore.  
 7. *Rewards & Recognition* → System updates donor profile.  
 
-This structured architecture ensures *fast, secure, and efficient blood donation services*, bridging the gap between donors and recipients. 🚀  
+This structured architecture ensures *fast, secure, and efficient blood donation services*, bridging the gap between donors and recipients. 🚀 
+
+
+![image](https://github.com/user-attachments/assets/5a454e59-941d-41b0-b0b7-88742ad0d121)
+
 
