@@ -104,8 +104,10 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 
 This structured architecture ensures *fast, secure, and efficient blood donation services*, bridging the gap between donors and recipients. 🚀 
 
+![image](https://github.com/user-attachments/assets/a7f09884-20fb-4e36-b25c-d822d1c0d24d)
+![image](https://github.com/user-attachments/assets/3c2ec38f-c339-46db-bedc-a9ff11247f9b) 
+![image](https://github.com/user-attachments/assets/6b24fe25-13c7-486b-a6d1-07779e9d01fb)
 
-![image](https://github.com/user-attachments/assets/3c2ec38f-c339-46db-bedc-a9ff11247f9b)
 
 
 
