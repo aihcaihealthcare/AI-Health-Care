@@ -2,17 +2,11 @@
 
 ## 💡 Introduction
 
-🩸 Blood Donation App – Save Lives with a Click! 🚀
-📌 About the Project
-Millions of people struggle to find blood donors during emergencies, leading to life-threatening situations. Our Blood Donation App bridges this gap by connecting donors and recipients in real-time, ensuring quick and hassle-free access to life-saving blood. The app is designed to make donating and receiving blood simple, fast, and efficient.
+**Problem Statement**:  Every year, millions of people face life-threatening emergencies due to the unavailability of blood, with many struggling to find immediate blood donors when time is critical. The lack of a streamlined platform for connecting blood donors and recipients exacerbates this issue, resulting in delays that could cost lives.
 
-🔥 Why This App?
-✅ Quick Blood Requests: Find available donors in seconds.
-✅ Real-Time Matching: Connect instantly with compatible donors.
-✅ AI Chatbot Support: Get 24/7 assistance for blood donation queries.
-✅ Emergency Mode: Instantly alert nearby donors in critical situations.
-✅ Track Donations & Rewards: View past donations and earn rewards.
-✅ Secure & Reliable: Built with Google Cloud & Firebase for seamless experience.
+**Solution**:  The Blood Donation App is designed to address this critical challenge by connecting blood donors with those in need in real-time. Our app ensures that users can quickly find compatible blood donors in their area, making blood donation more accessible and efficient. Through features like emergency alerts, a live donor map, and a health tracker, the app empowers individuals and communities to contribute to life-saving causes. By fostering a network of donors and creating an easy-to-use platform, we aim to reduce the gap in blood availability, saving lives when it matters the most.
+With real-time notifications, instant matching, and a supportive community, the Blood Donation App promotes a safer, healthier society by ensuring that blood is always available when needed.
+
 
 ✨ Features
 🔹 User-Friendly Interface – Simple and easy-to-use design.
@@ -36,8 +30,16 @@ Millions of people struggle to find blood donors during emergencies, leading to 
 
 ### Our Target SDG Goals 🎯
 
+<p align="center">
+<img src="https://i.imghippo.com/files/gwb2810TZU.png" alt="" border="0">
+<img src="https://i.imghippo.com/files/yCxJ4815BpM.png" alt="" border="0">
+<img src="https://i.imghippo.com/files/c2364JZ.png" alt="" border="0">
+</p>
+AI-Health-Care App is a life-saving Android app designed to revolutionize how we connect blood donors with those in urgent need. Our mission is to eliminate the delays in blood availability, ensuring that every life is protected in critical moments. By fostering a community of regular donors and providing real-time access to blood resources, we aim to make blood donations seamless, efficient, and impactful. Join us in supporting UN Sustainable Development Goal 3 (Good Health and Well-being) by 2030. Together, we can build a world where no one has to wait for blood when every second counts.
 
-🛠️ Technologies Used
+
+
+## 🛠️ Technologies Used
 💻 Flutter – For a seamless cross-platform experience.
 
 📱 Android Studio – Android app development.
@@ -110,7 +112,18 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 4. *Emergency Mode Activated (if needed)* → Nearby donors get instant alerts.  
 5. *Donor Accepts Request* → Secure chat/call initiated.  
 6. *Blood Donation Completed* → Records updated in Firebase Firestore.  
-7. *Rewards & Recognition* → System updates donor profile.  
+7. *Rewards & Recognition* → System updates donor profile.
+
+## 🛳 User Guide
+
+### Overview
+<table style="width: 100%;">
+  <tr>
+    <td align="center" width="25%">
+    <img src="https://i.imghippo.com/files/ZrCB1537wig.png" alt="" width="120"><br>
+      <b>Splash Screen</b><br>
+      Displays the Spoon Share logo upon app launch.
+    </td>
 
 This structured architecture ensures *fast, secure, and efficient blood donation services*, bridging the gap between donors and recipients. 🚀 
 
