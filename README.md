@@ -123,7 +123,7 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
     <img src="https://i.imghippo.com/files/HlC1305tfw.png" width="120" alt="Converted Image">
 <br>
       <b>Splash Screen</b><br>
-      Displays the Spoon Share logo upon app launch.
+      Displays the AI-Health-Care logo upon app launch.
     </td>
       <td align="center" width="25%">
      <img src="https://i.imghippo.com/files/heHi5417kto.png" width="120" alt="Converted Image">
