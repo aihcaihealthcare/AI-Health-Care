@@ -120,17 +120,15 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 <table style="width: 100%;">
   <tr>
     <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/ZrCB1537wig.png" alt="" width="120"><br>
+    <img src="https://i.imghippo.com/files/HlC1305tfw.png" width="120" alt="Converted Image">
+<br>
       <b>Splash Screen</b><br>
       Displays the Spoon Share logo upon app launch.
     </td>
-
-This structured architecture ensures *fast, secure, and efficient blood donation services*, bridging the gap between donors and recipients. 🚀 
-
-![image](https://github.com/user-attachments/assets/a7f09884-20fb-4e36-b25c-d822d1c0d24d)
-![image](https://github.com/user-attachments/assets/3c2ec38f-c339-46db-bedc-a9ff11247f9b) 
-![image](https://github.com/user-attachments/assets/6b24fe25-13c7-486b-a6d1-07779e9d01fb)
-
-
-
+      <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/heHi5417kto.png" width="120" alt="Converted Image">
+<br>
+      <b>Onboarding Screen</b><br>
+      Awareness about blood donation.
+    </td>
 
