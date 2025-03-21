@@ -242,5 +242,12 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
     </td>
 </table>
 
+
+
+# Hello, We are SquadVision
+## 🤝 Contributors
+We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar and Core Team Members of the  AI-Health-Care Team [GDSC DIEMS](https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies-aurangabad/)
+
+
      
 
