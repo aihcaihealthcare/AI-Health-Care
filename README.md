@@ -126,9 +126,121 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
       Displays the AI-Health-Care logo upon app launch.
     </td>
       <td align="center" width="25%">
-     <img src="https://i.imghippo.com/files/heHi5417kto.png" width="120" alt="Converted Image">
+       <img src="https://i.imghippo.com/files/FKq7834kgU.png"  width="120" alt="Converted Image">
+    
 <br>
       <b>Onboarding Screen</b><br>
       Awareness about blood donation.
     </td>
+ <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/gPNq5091GMY.png"   width="120" alt="Converted Image">
+    
+<br>
+      <b>Sign in with email or Google.</b><br>
+     Enter your registered email address and password, or use your Google account for faster access.
+    </td>
+ <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image">
+    
+<br>
+      <b>Enter your personal information.</b><br>
+      Create a new account. Enter your email and choose a password, or sign up instantly with Google..
+    </td>
+     </tr>
+ <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image">
+    
+<br>   
+  <b>Sign in with email or Google.</b><br>
+     Enter your registered email address and password, or use your Google account for faster access.
+    </td>
+ <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image">
+    
+<br>
+ <b>Sign in with email or Google.</b><br>
+     Enter your registered email address and password, or use your Google account for faster access.
+    </td>
+ <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image">
+    
+<br>
+ <b>Sign in with email or Google.</b><br>
+     Enter your registered email address and password, or use your Google account for faster access.
+    </td>
+ <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image">
+    
+<br>
+
+  <tr>
+    <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/zLk4999QJw.png"  width="120"/><br>
+      <b>Verify Free Food/Donate Food</b><br>
+      Admin ensures authenticity by verifying food listings before they appear on the app.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/mNL3239reI.png" width="120"/><br>
+      <b>Recycle Screen</b><br>
+      Connect with biogas plants for responsible disposal of expired food items
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/GGig8206jdI.png" width="120"/><br>
+      <b>Recycle Form Screen</b><br>
+      Individuals can share food for recycling by filling information about food types & location.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/NM1389.png"  width="120"/><br>
+      <b>User Profile Screen</b></br>
+      User Profile where user can see it and edit it also as per this convenience
+    </td>
+   
+
+   <tr>
+    <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/zLk4999QJw.png"  width="120"/><br>
+      <b>Verify Free Food/Donate Food</b><br>
+      Admin ensures authenticity by verifying food listings before they appear on the app.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/mNL3239reI.png" width="120"/><br>
+      <b>Recycle Screen</b><br>
+      Connect with biogas plants for responsible disposal of expired food items
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/GGig8206jdI.png" width="120"/><br>
+      <b>Recycle Form Screen</b><br>
+      Individuals can share food for recycling by filling information about food types & location.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/NM1389.png"  width="120"/><br>
+      <b>User Profile Screen</b></br>
+      User Profile where user can see it and edit it also as per this convenience
+    </td>
+
+
+   <tr>
+    <td align="center" width="25%">
+     <img src="https://i.imghippo.com/files/zLk4999QJw.png"  width="120"/><br>
+      <b>Verify Free Food/Donate Food</b><br>
+      Admin ensures authenticity by verifying food listings before they appear on the app.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/mNL3239reI.png" width="120"/><br>
+      <b>Recycle Screen</b><br>
+      Connect with biogas plants for responsible disposal of expired food items
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/GGig8206jdI.png" width="120"/><br>
+      <b>Recycle Form Screen</b><br>
+      Individuals can share food for recycling by filling information about food types & location.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.imghippo.com/files/NM1389.png"  width="120"/><br>
+      <b>User Profile Screen</b></br>
+      User Profile where user can see it and edit it also as per this convenience
+    </td>
+</table>
+
+     
 
