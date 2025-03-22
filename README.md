@@ -176,28 +176,28 @@ User can log in to access their account. Don't have an account? Sign up here.
 
       
  <td align="center" width="25%">
-     <img src="https://i.imghippo.com/files/pEmj1419HjI.png"   width="120" alt="Converted Image"><br>   
-  <b>Sign up Screen.</b><br>
-     Create an account with your email or sign up using Google.
+     <img src="https://i.imghippo.com/files/uSD3980bw.png"   width="120" alt="Converted Image"><br>   
+  <b>User Profile Screen </b><br>
+    A user profile  where users can add their personal information as per their convenience.
     </td>
 
     
  <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/cIbD6268tM.png"   width="120" alt="Converted Image"><br>
- <b>User Information Screen.</b><br>
-     Next, add your information to get started.
+  <img src="https://i.imghippo.com/files/KUY1523KXA.png"    width="120" alt="Converted Image"><br>
+ <b>Health Records Screen.</b><br>
+      A user can view and edit their health and medical history as needed.
 
    
  <td align="center" width="25%">
-   <img src="https://i.imghippo.com/files/motL6704SLM.png"    width="120" alt="Converted Image"> <br>
- <b>Home Screen</b><br>
-     Lists nearby blood donation centers where blood is available for those in need.</td>
+<img src="https://i.imghippo.com/files/KQR4902QVE.png"   width="120" alt="Converted Image"> <br>
+ <b>Travel history Screen</b><br>
+    A user can view and edit their travel history as needed.</td>
     
     
    <td align="center" width="25%">
- <img src="https://i.imghippo.com/files/jbvi7664Aw.png"   width="120" alt="Converted Image"><br>
-       <b>Chatbot Screen</b><br>
-    Get instant assistance! Ask questions and learn how to use the app easily.</td>
+<img src="https://i.imghippo.com/files/pG6989ms.png" width="120" alt="Converted Image"><br>
+       <b>Donation history Screen</b><br>
+   A user can view and edit their donation history as needed.</td>
 </table>
 
 
