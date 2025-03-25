@@ -172,8 +172,8 @@ User can log in to access their account. Don't have an account? Sign up.
     
    <td align="center" width="25%">
  <img src="https://i.imghippo.com/files/jbvi7664Aw.png"   width="120" alt="Converted Image"><br>
-       <b>Chatbot Screen</b><br>
-    Get instant assistance! Ask questions and learn how to use the app easily.</td>
+       <b>ChatBot Welcome Screen</b><br>
+    The user gets instant AI assistance and support.</td>
       </tr>
 
 
@@ -182,29 +182,29 @@ User can log in to access their account. Don't have an account? Sign up.
     <td align="center" width="25%">
 <img src="https://i.imghippo.com/files/HpTi4778lCY.png"  width="120" alt="Converted Image">
     <br>
-      <b>Splash Screen</b><br>
-      Displays the AI-Health-Care logo upon app launch.
+      <b>Chatbot Screen</b><br>
+     The user can ask questions to the AI assistant and receive quick.
    </td>
 
      
    <td align="center" width="25%">
       <img src="https://i.imghippo.com/files/JPon7251ZqQ.png"   width="120" alt="Converted Image"><br>
-      <b>Onboarding Screen</b><br>
-      Awareness about blood donation.
+      <b>Chatbot Screen</b><br>
+     AI assistant can easily solve user questions and provide quick, accurate responses.
     </td>
 
     
  <td align="center" width="25%">
   <img src="https://i.imghippo.com/files/Ll9793Qw.png"   width="120" alt="Converted Image">
     <br>
-      <b>Log In or Sign Up.</b><br>
-User can log in to access their account. Don't have an account? Sign up here.
+      <b>Real-Time Map</b><br>
+User find available blood and connect with donors instantly.
     </td>
 
 <td align="center" width="25%">
     <img src="https://i.imghippo.com/files/nUl7702JbM.png"   width="120" alt="Converted Image"><br>   
-  <b>Sign up Screen.</b><br>
-     Create an account with your email or sign up using Google.
+  <b>Donors Screen.</b><br>
+    Users can easily search for blood donors by selecting their required blood group.
     </td>
     
  
@@ -218,28 +218,28 @@ User can log in to access their account. Don't have an account? Sign up here.
     
  <td align="center" width="25%">
   <img src="https://i.imghippo.com/files/G3545Kw.png"    width="120" alt="Converted Image"><br>
- <b>User Information Screen.</b><br>
-     Next, add your information to get started.
+ <b>Donors Screen.</b><br>
+    Find A+ blood donors quickly and easily for urgent needs.
 
    
  <td align="center" width="25%">
 <img src="https://i.imghippo.com/files/PFWO3577lk.png"   width="120" alt="Converted Image"> <br>
- <b>Home Screen</b><br>
-     Lists nearby blood donation centers where blood is available for those in need.</td>
+ <b>Donors Screen.</b><br>
+     List of B+ blood group available at nearby donation centers.</td>
     
     
    <td align="center" width="25%">
  <img src="https://i.imghippo.com/files/NsbY4942Mw.png"    width="120" alt="Converted Image"><br>
-       <b>Chatbot Screen</b><br>
-    Get instant assistance! Ask questions and learn how to use the app easily.</td>
+       <b>Donors Screen.</b><br>
+    All blood group donors are available. Find the right match now!</td>
 
  <td align="center" width="25%">
     <img src="https://i.imghippo.com/files/Wst1939Wqo.png"  width="120" alt="Converted Image"><br>
-      <b>Log in Screen</b><br>
-     Login with your email or continue with Google.
+      <b>User History Screen</b><br>
+    User can view their blood donation history and hospital visits easily.
     </td>
    
-      </tr>
+  </tr>
 
    
 <tr>
@@ -266,34 +266,33 @@ User can log in to access their account. Don't have an account? Sign up here.
    <td align="center" width="25%">
 <img src="https://i.imghippo.com/files/pG6989ms.png" width="120" alt="Converted Image"><br>
        <b>Donation history Screen</b><br>
-   A user can view and edit their donation history as needed.</td>
+  Users can upload, view, and edit their donation history on the profile screen.</td>
    </tr>
 
 <tr>
 
  <td align="center" width="25%">
     <img src="https://i.imghippo.com/files/FI1788w.png"   width="120" alt="Converted Image"><br>   
-  <b>User Profile Screen </b><br>
-    A user profile  where users can add their personal information as per their convenience.
+  <b>Continue Profile Screen </b><br>
+   After completing a user's profile details, continue to the next user profile.
     </td>
 
     
  <td align="center" width="25%">
-  <img src="https://i.imghippo.com/files/KUY1523KXA.png"    width="120" alt="Converted Image"><br>
- <b>Health Records Screen.</b><br>
-      A user can view and edit their health and medical history as needed.
+ <img src="https://i.imghippo.com/files/e3766LAg.png"   width="120" alt="Converted Image"><br>
+ <b>Emergency Mode Screen</b><br>
+     Quickly request blood from nearby donors and hospitals in urgent situations.
 
-   
  <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/KQR4902QVE.png"   width="120" alt="Converted Image"> <br>
- <b>Travel history Screen</b><br>
-    A user can view and edit their travel history as needed.</td>
+<img src="https://i.imghippo.com/files/MGA2546EyA.png"    width="120" alt="Converted Image"> <br>
+ <b>Send Blood Request</b><br>
+    Give permission to share your profile, Continue this.</td>
     
     
    <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/pG6989ms.png" width="120" alt="Converted Image"><br>
-       <b>Donation history Screen</b><br>
-   A user can view and edit their donation history as needed.</td>
+<img src="https://i.imghippo.com/files/qNRM9032BO.png" width="120" alt="Converted Image"><br>
+       <b>Emergency Mode Screen</b><br>
+ Go back to the home screen from emergency mode.</td>
    </tr>
 </table>
 
