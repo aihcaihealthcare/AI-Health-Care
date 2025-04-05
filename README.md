@@ -8,18 +8,24 @@
 With real-time notifications, instant matching, and a supportive community, the Blood Donation App promotes a safer, healthier society by ensuring that blood is always available when needed.
 
 
-✨ Features
-🔹 User-Friendly Interface – Simple and easy-to-use design.
 
-🔹 Live Blood Availability Map – See nearby donors in real time.
 
-🔹 AI-Powered Chatbot – Get instant answers & support.
+## ✨ Features
+🔹 User-Friendly Interface – Simple and easy-to-use design for everyone.
 
-🔹 Emergency Mode – Notify donors in urgent situations.
+🔹 Live Blood Availability Map – View nearby donors and blood availability in real time.
 
-🔹 Health Tracker – Keep track of your donation history.
+🔹 AI-Powered Chatbot – Get instant answers, guidance, and support anytime.
 
-🔹 Community & Recognition – Earn badges and rewards for donating.
+🔹 Emergency Mode – Instantly notify nearby donors during urgent situations.
+
+🔹 Health Tracker – Monitor your health and donation history with ease.
+
+🔹 Smartwatch Integration – Track your health data and donation updates directly from your smartwatch.
+
+🔹 Multi-Language Support – Use the app in your preferred language for a smooth experience.
+
+🔹 Community & Recognition – Join a supportive donor community and earn badges and rewards for your contributions.
 
 
 ## Intro To AI-Health-Care Video
@@ -149,6 +155,9 @@ User can log in to access their account. Don't have an account? Sign up.
      Login with your email or continue with Google.
     </td>
     </tr>
+
+
+
  
  <tr> 
  <td align="center" width="25%">
@@ -156,13 +165,11 @@ User can log in to access their account. Don't have an account? Sign up.
   <b>Sign up Screen.</b><br>
      Create an account with your email or sign up using Google.
     </td>
-
-    
+  
  <td align="center" width="25%">
     <img src="https://i.imghippo.com/files/cIbD6268tM.png"   width="120" alt="Converted Image"><br>
  <b>User Information Screen.</b><br>
      Next, add your information to get started.
-
    
  <td align="center" width="25%">
   <img src="https://i.imghippo.com/files/IdJ8437c.png"   width="120" alt="Converted Image"> <br>
@@ -178,6 +185,8 @@ User can log in to access their account. Don't have an account? Sign up.
 
 
 
+
+
  <tr>
     <td align="center" width="25%">
 <img src="https://i.imghippo.com/files/HpTi4778lCY.png"  width="120" alt="Converted Image">
@@ -185,98 +194,34 @@ User can log in to access their account. Don't have an account? Sign up.
       <b>Chatbot Screen</b><br>
      The user can ask questions to the AI assistant and receive quick.
    </td>
-
      
    <td align="center" width="25%">
       <img src="https://i.imghippo.com/files/JPon7251ZqQ.png"   width="120" alt="Converted Image"><br>
       <b>Chatbot Screen</b><br>
      AI assistant can easily solve user questions and provide quick, accurate responses.
     </td>
-
     
- <td align="center" width="25%">
+<td align="center" width="25%">
+    <img src="https://i.imghippo.com/files/nUl7702JbM.png"   width="120" alt="Converted Image"><br>   
+  <b>Donors Screen.</b><br>
+    Users can easily search for blood donors by selecting their required blood group.
+    </td>
+    <td align="center" width="25%">
   <img src="https://i.imghippo.com/files/Ll9793Qw.png"   width="120" alt="Converted Image">
     <br>
       <b>Real-Time Map</b><br>
 User find available blood and connect with donors instantly.
     </td>
 
-<td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/nUl7702JbM.png"   width="120" alt="Converted Image"><br>   
-  <b>Donors Screen.</b><br>
-    Users can easily search for blood donors by selecting their required blood group.
-    </td>
-    
- 
    </tr>
 
 
 
- <tr> 
- 
 
-    
- <td align="center" width="25%">
-  <img src="https://i.imghippo.com/files/G3545Kw.png"    width="120" alt="Converted Image"><br>
- <b>Donors Screen.</b><br>
-    Find A+ blood donors quickly and easily for urgent needs.
 
-   
- <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/PFWO3577lk.png"   width="120" alt="Converted Image"> <br>
- <b>Donors Screen.</b><br>
-     List of B+ blood group available at nearby donation centers.</td>
-    
-    
-   <td align="center" width="25%">
- <img src="https://i.imghippo.com/files/NsbY4942Mw.png"    width="120" alt="Converted Image"><br>
-       <b>Donors Screen.</b><br>
-    All blood group donors are available. Find the right match now!</td>
-
- <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/Wst1939Wqo.png"  width="120" alt="Converted Image"><br>
-      <b>User History Screen</b><br>
-    User can view their blood donation history and hospital visits easily.
-    </td>
-   
-  </tr>
 
    
 <tr>
-      
- <td align="center" width="25%">
-     <img src="https://i.imghippo.com/files/uSD3980bw.png"   width="120" alt="Converted Image"><br>   
-  <b>User Profile Screen </b><br>
-    A user profile  where users can add their personal information as per their convenience.
-    </td>
-
-    
- <td align="center" width="25%">
-  <img src="https://i.imghippo.com/files/KUY1523KXA.png"    width="120" alt="Converted Image"><br>
- <b>Health Records Screen.</b><br>
-      A user can view and edit their health and medical history as needed.
-
-   
- <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/KQR4902QVE.png"   width="120" alt="Converted Image"> <br>
- <b>Travel history Screen</b><br>
-    A user can view and edit their travel history as needed.</td>
-    
-    
-   <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/pG6989ms.png" width="120" alt="Converted Image"><br>
-       <b>Donation history Screen</b><br>
-  Users can upload, view, and edit their donation history on the profile screen.</td>
-   </tr>
-
-<tr>
-
- <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/FI1788w.png"   width="120" alt="Converted Image"><br>   
-  <b>Continue Profile Screen </b><br>
-   After completing a user's profile details, continue to the next user profile.
-    </td>
-
     
  <td align="center" width="25%">
  <img src="https://i.imghippo.com/files/e3766LAg.png"   width="120" alt="Converted Image"><br>
@@ -287,18 +232,54 @@ User find available blood and connect with donors instantly.
 <img src="https://i.imghippo.com/files/MGA2546EyA.png"    width="120" alt="Converted Image"> <br>
  <b>Send Blood Request</b><br>
     Give permission to share your profile, Continue this.</td>
+    <td align="center" width="25%">
+    <img src="https://i.imghippo.com/files/Wst1939Wqo.png"  width="120" alt="Converted Image"><br>
+      <b>User History Screen</b><br>
+    User can view their blood donation history and hospital visits easily.
+    </td>
+     <td align="center" width="25%">
+   <img src="https://i.imghippo.com/files/UIl5458hg.png"width="120" alt="Converted Image"><br>   
+  <b>User Profile Screen </b><br>
+    A user profile  where users can add their personal information as per their convenience.
+    </td>    
+   </tr>
+
+
+
+
+
+
+
+<tr>
+
+ <td align="center" width="25%">
+    <img src="https://i.imghippo.com/files/G8806vA.png"     width="120" alt="Converted Image"><br>   
+  <b>Smartwatch screen </b><br>
+    User can track health data by connecting their smartwatch.
+    </td>   
+
+      
+ <td align="center" width="25%">
+<img src="https://i.imghippo.com/files/Gv2285vv.png"    width="120" alt="Converted Image"> <br>
+ <b> AI-powered Screen</b><br>
+    Smartwatch AI-powered  User can track their live health status using real-time data for quick and accurate updates.</td>
     
     
+ <td align="center" width="25%">
+<img src="https://i.imghippo.com/files/sm4521pmw.png"   width="120" alt="Converted Image"> <br>
+ <b> Multiple languages Screen</b><br>
+  This app supports multiple languages, making it easy and comfortable for everyone to use.</td>
+
    <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/qNRM9032BO.png" width="120" alt="Converted Image"><br>
-       <b>Emergency Mode Screen</b><br>
- Go back to the home screen from emergency mode.</td>
+<img src="https://i.imghippo.com/files/MAa1681WI.png" width="120" alt="Converted Image"><br>
+       <b>Guidance screenn</b><br>
+ If the user is unsure how to use the app, a step-by-step guide is available to help.</td>
    </tr>
 </table>
 
 
 
-# Hello, We are SquadVision
+# Hello, We are AITRONICS
 ## 🤝 Contributors
 We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar and Core Team Members of the  AI-Health-Care Team [GDSC DIEMS](https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies-aurangabad/)
 
