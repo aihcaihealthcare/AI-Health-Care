@@ -127,7 +127,7 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 
 <tr>
  <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/HlC1305tfw.png" width="120" alt="Converted Image">
+  <img src="https://i.imghippo.com/files/qyC4024cSE.png" width="120" alt="Converted Image">
     <br>
       <b>Splash Screen</b><br>
       Displays the AI-Health-Care logo upon app launch.
@@ -142,7 +142,7 @@ The architecture of the *Blood Donation App* is designed to ensure seamless inte
 
     
  <td align="center" width="25%">
-     <img src="https://i.imghippo.com/files/PMcz6399G.png"   width="120" alt="Converted Image">
+    <img src="https://i.imghippo.com/files/n4804ww.png"    width="120" alt="Converted Image">
     <br>
       <b>Log In or Sign Up.</b><br>
 User can log in to access their account. Don't have an account? Sign up.
@@ -150,7 +150,7 @@ User can log in to access their account. Don't have an account? Sign up.
 
     
  <td align="center" width="25%">
-     <img src="https://i.imghippo.com/files/ggW6545fYo.png"  width="120" alt="Converted Image"><br>
+    <img src="https://i.imghippo.com/files/QiGk6951kck.png"   width="120" alt="Converted Image"><br>
       <b>Log in Screen</b><br>
      Login with your email or continue with Google.
     </td>
@@ -167,7 +167,7 @@ User can log in to access their account. Don't have an account? Sign up.
     </td>
   
  <td align="center" width="25%">
-    <img src="https://i.imghippo.com/files/cIbD6268tM.png"   width="120" alt="Converted Image"><br>
+    <img src="https://i.imghippo.com/files/xf1886KHg.png"   width="120" alt="Converted Image"><br>
  <b>User Information Screen.</b><br>
      Next, add your information to get started.
    
@@ -178,7 +178,7 @@ User can log in to access their account. Don't have an account? Sign up.
     
     
    <td align="center" width="25%">
- <img src="https://i.imghippo.com/files/jbvi7664Aw.png"   width="120" alt="Converted Image"><br>
+      <img src="https://i.imghippo.com/files/alam5825ye.png"  width="120" alt="Converted Image"><br>
        <b>ChatBot Welcome Screen</b><br>
     The user gets instant AI assistance and support.</td>
       </tr>
@@ -189,7 +189,7 @@ User can log in to access their account. Don't have an account? Sign up.
 
  <tr>
     <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/HpTi4778lCY.png"  width="120" alt="Converted Image">
+<img src="https://i.imghippo.com/files/Wit9704ZZQ.png" width="120" alt="Converted Image">
     <br>
       <b>Chatbot Screen</b><br>
      The user can ask questions to the AI assistant and receive quick.
@@ -229,7 +229,7 @@ User find available blood and connect with donors instantly.
      Quickly request blood from nearby donors and hospitals in urgent situations.
 
  <td align="center" width="25%">
-<img src="https://i.imghippo.com/files/MGA2546EyA.png"    width="120" alt="Converted Image"> <br>
+<img src="https://i.imghippo.com/files/QC4396eWU.png"     width="120" alt="Converted Image"> <br>
  <b>Send Blood Request</b><br>
     Give permission to share your profile, Continue this.</td>
     <td align="center" width="25%">
